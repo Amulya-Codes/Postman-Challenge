@@ -1,10 +1,6 @@
 
 
 <h1 align="center">Postman-Challenge Gssoc Ext</h1>
-
-<h1 align="center"> Postman API Student Expert</h1>
-
-
 <div align="center">
   
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -149,5 +145,54 @@ https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_US
 <img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
 ```
 
+## GSSoC Dynamic Badges
+
+In Addition to the Manual Method You can Display your GSSoC (GirlScript Summer of Code) badges directly on your GitHub profile with dynamically generated badges!
+
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/shubhagarwal1?year=2024Extd)
+
+## ✨ Features
+
+- **Real-Time Updates**: Badges are updated with live leaderboard data from GSSoC, reflecting your current progress.
+- **Milestone-Based Badges**: Unlock badges based on your score, each representing a new achievement level.
+- **Customizable for Profile**: Show your badge on your GitHub profile in a way that’s easy to set up.
+
+## 🚀 How to Use
+
+### Step 1: Get Your Badge URL
+
+Replace `<username>` with your GitHub username and `<year>` with the GSSoC year (e.g., `2024Extd`,`2024` or `2023`) in the URL below:
+
+```plaintext
+https://gssoc-dymanic-badges.vercel.app/api/<username>?year=<year>
+```
+
+### Step 2: Embed the Badge in Your GitHub Profile
+Add the generated badge to your GitHub profile using Markdown. Here’s how:
+```plaintext
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/<username>?year=<year>)
+```
+Example:
+```plaintext
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/shubhagarwal1?year=2024Extd)
+```
+### Optional: Make the Badge Redirect to GSSoC's Website
+To link the badge to the GSSoC website or leaderboard, wrap the Markdown in a link:
+```plaintext
+[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/<username>?year=<year>)](https://gssoc.girlscript.tech)
+```
+
+### Thankyou
 
 #### Thank you for participating and contributing to our learning community! 🙌
+
+</div>
+    <div align="center">
+
+### GirlScript Summer of Code Extended 2024
+
+[Website](https://gssoc.girlscript.tech/) | [Instagram](https://www.instagram.com/girlscriptsummerofcode/?hl=en) | [LinkedIn](https://www.linkedin.com/company/girlscriptsoc) | [Twitter](https://twitter.com/girlscriptsoc) | [YouTube](https://www.youtube.com/@girlscriptfoundation45)
+
+</div>
+
+
